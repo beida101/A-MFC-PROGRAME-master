@@ -1,0 +1,54 @@
+﻿生成启动时间为 2019/4/2 18:06:29。
+     1>项目“E:\testdemo\A-MFC-PROGRAME-master\A-MFC-PROGRAME-master\studentsystem\studentsystem.vcxproj”在节点 2 上(Rebuild 个目标)。
+     1>ClCompile:
+         D:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"stdafx.h" /Fp"Debug\studentsystem.pch" /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         D:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\studentsystem.pch" /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt adodc1.cpp Cduobiao.cpp chaDlg.cpp CHANGEshuru.cpp CHUFAshuru.cpp CLASSshuru.cpp column.cpp columns.cpp Cshanchu.cpp datagrid1.cpp denglu.cpp insertdata.cpp MainDlg.cpp Mainshuru.cpp REWARDshuru.cpp studentsystem.cpp studentsystemDlg.cpp update.cpp
+         update.cpp
+         studentsystemDlg.cpp
+         studentsystem.cpp
+         REWARDshuru.cpp
+         Mainshuru.cpp
+         MainDlg.cpp
+         insertdata.cpp
+         denglu.cpp
+         datagrid1.cpp
+         Cshanchu.cpp
+         columns.cpp
+         column.cpp
+         CLASSshuru.cpp
+         CHUFAshuru.cpp
+         CHANGEshuru.cpp
+         chaDlg.cpp
+         Cduobiao.cpp
+         adodc1.cpp
+         正在生成代码...
+       ResourceCompile:
+         C:\Program Files (x86)\Windows Kits\8.0\bin\x86\rc.exe /D _DEBUG /D _AFXDLL /l"0x0804" /IDebug\ /nologo /fo"Debug\studentsystem.res" studentsystem.rc 
+       Link:
+         D:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\testdemo\A-MFC-PROGRAME-master\A-MFC-PROGRAME-master\Debug\studentsystem.exe" /INCREMENTAL /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"D:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\Include\Manifest\dpiaware.manifest" /DEBUG /PDB:"E:\testdemo\A-MFC-PROGRAME-master\A-MFC-PROGRAME-master\Debug\studentsystem.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\testdemo\A-MFC-PROGRAME-master\A-MFC-PROGRAME-master\Debug\studentsystem.lib" /MACHINE:X86 Debug\studentsystem.res
+         Debug\adodc1.obj
+         Debug\Cduobiao.obj
+         Debug\chaDlg.obj
+         Debug\CHANGEshuru.obj
+         Debug\CHUFAshuru.obj
+         Debug\CLASSshuru.obj
+         Debug\column.obj
+         Debug\columns.obj
+         Debug\Cshanchu.obj
+         Debug\datagrid1.obj
+         Debug\denglu.obj
+         Debug\insertdata.obj
+         Debug\MainDlg.obj
+         Debug\Mainshuru.obj
+         Debug\REWARDshuru.obj
+         Debug\stdafx.obj
+         Debug\studentsystem.obj
+         Debug\studentsystemDlg.obj
+         Debug\update.obj
+         studentsystem.vcxproj -> E:\testdemo\A-MFC-PROGRAME-master\A-MFC-PROGRAME-master\Debug\studentsystem.exe
+     1>已完成生成项目“E:\testdemo\A-MFC-PROGRAME-master\A-MFC-PROGRAME-master\studentsystem\studentsystem.vcxproj”(Rebuild 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:09.18
